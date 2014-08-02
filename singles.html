@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>The Dating Game</title>
+    <style type="text/css">
+        body {
+            background-color: #FDF6E3;
+            font-family: Arial,Helvetica,sans-serif;
+        }
+        button {
+            color: #DD312F;
+            background-color: #FDF6E3;
+            border: 2px solid #DD312F;
+            font-weight: bold;
+            font-size: 150%;
+        }
+        button:hover {
+            background-color: #DD312F;
+            color: #FDF6E3;
+        }
+        h1 {
+            color: #268BD3;
+        }
+        #content {
+            width: 500px;
+            margin: 0 auto;
+        }
+        .status {
+              float: left;
+              width:33.33333%;
+        }
+    </style>
+    <div id="statusBar">
+        <span class="status" style="text-align:left">
+            <strong>Score: </strong><span id="score">0</span>
+        </span>
+        <span class="status" style="text-align:center">
+            <strong>Question <span id="questionNo">0</span>/<span id="questionMax">10</span></strong>
+        </span>
+        <span class="status" style="text-align:right">
+            <strong>High Score: </strong><span id="hiscore">0</span>
+        </span>
+    </div>
+</head>
+<body>
+<div id="content">
+    <br><h1 id="maintitle"></h1>
+    <h2 id="subtitle"></h2>
+    <div class="startButtons">
+        <button class="genre" id="genreYear">Start</button><br>
+        <!-- These can be used to start with different song lists -->
+        <!--<button class="genre" id="genrePop">Pop</button>-->
+        <!--<button class="genre" id="genreRnb">R&amp;B</button>-->
+        <!--<button class="genre" id="genreCountry">Country</button>-->
+    </div>
+
+    <div id="userInput">
+        <div id="sliderBar"></div>
+        <p id="chosenYear"></p>
+        <button id="submitButton">Submit</button>
+    </div>
+    <div id="songEmbed"></div>
+    <p id="songInfo"></p>
+    <button id="nextSong">Next</button>
+    <button id="replayButton">Play Again</button>
+
+    <script src="jquery-1.11.1.js" type="text/javascript"></script>
+    <script src="jquery-ui.js" type="text/javascript"></script>
+    <link rel="stylesheet" href="jquery-ui.css"></script>
+    <script src="singles.js" type="text/javascript"></script>
+</div>
+</body>
+</html>
