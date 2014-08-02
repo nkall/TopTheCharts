@@ -1,8 +1,22 @@
 {
     "song": [
         {
+            "title": "\"Frenesi\"",
+            "artist": "Artie Shaw & His Orchestra",
+            "year": 1940,
+            "vid": "sMOHMYl5BCs",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"In the Mood\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "Nqj8jnIRXFI",
+            "vtime": "3:21"
+        },
+        {
             "title": "\"I'll Never Smile Again\"",
-            "artist": "Tommy Dorsey and His Orchestra",
+            "artist": "Tommy Dorsey & His Orchestra",
             "year": 1940,
             "vid": "il7DWoLySW8",
             "vtime": "3:12"
@@ -15,130 +29,396 @@
             "vtime": "3:10"
         },
         {
-            "title": "\"Frenesi\"",
-            "artist": "Artie Shaw and His Orchestra",
+            "title": "\"Tuxedo Junction\"",
+            "artist": "Glenn Miller & His Orchestra",
             "year": 1940,
-            "vid": "sMOHMYl5BCs",
-            "vtime": "3:04"
+            "vid": "g7PBWcoPpGE",
+            "vtime": "3:34"
         },
         {
-            "title": "\"Song of the Volga Boatmen\"",
-            "artist": "Glenn Miller and His Orchestra",
-            "year": 1941,
-            "vid": "8UJsPsG6UAM",
-            "vtime": "3:24"
+            "title": "\"The Woodpecker Song\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "RMiGqlRckiU",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"When You Wish Upon a Star\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "0XCXdmfSjDw",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"Careless\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "Nqj8jnIRXFI",
+            "vtime": "3:21"
+        },
+        {
+            "title": "\"Trade Winds\"",
+            "artist": "Bing Crosby",
+            "year": 1940,
+            "vid": "WHstSNcSjJI",
+            "vtime": "3:16"
+        },
+        {
+            "title": "\"Sierra Sue\"",
+            "artist": "Bing Crosby",
+            "year": 1940,
+            "vid": "niV50iaSbG0",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"Ferry Boat Serenade\"",
+            "artist": "Andrews Sisters",
+            "year": 1940,
+            "vid": "sHy-ji5hDNQ",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"We Three (My Echo, My Shadow, And Me)\"",
+            "artist": "Ink Spots",
+            "year": 1940,
+            "vid": "AQ_Lzh_S-2c",
+            "vtime": "3:21"
+        },
+        {
+            "title": "\"There I Go\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1940,
+            "vid": "G9WRwRdpl3k",
+            "vtime": "2:53"
+        },
+        {
+            "title": "\"Imagination\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "Ob1tdOHDFL4",
+            "vtime": "2:47"
+        },
+        {
+            "title": "\"Make-Believe Island\"",
+            "artist": "Mitchell Ayres & His Fashions in Music",
+            "year": 1940,
+            "vid": "NOLI67nKVjM",
+            "vtime": "3:12"
+        },
+        {
+            "title": "\"All the Things You Are\"",
+            "artist": "Tommy Dorsey & His Orchestra",
+            "year": 1940,
+            "vid": "wgqiAoHPxoU",
+            "vtime": "3:20"
+        },
+        {
+            "title": "\"Where Was I?\"",
+            "artist": "Charlie Barnet & His Orchestra",
+            "year": 1940,
+            "vid": "waEenoA7560",
+            "vtime": "3:22"
+        },
+        {
+            "title": "\"Blueberry Hill\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "wsqgTEgEvis",
+            "vtime": "2:49"
+        },
+        {
+            "title": "\"Indian Summer\"",
+            "artist": "Tommy Dorsey & His Orchestra",
+            "year": 1940,
+            "vid": "laaBenWA2so",
+            "vtime": "3:30"
+        },
+        {
+            "title": "\"The Breeze and I\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1940,
+            "vid": "PPvuerCsCOE",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"Fools Rush In (Where Angels Fear To Tread)\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "IsKhpSCYaGg",
+            "vtime": "2:59"
+        },
+        {
+            "title": "\"Darn That Dream\"",
+            "artist": "Benny Goodman & His Orchestra",
+            "year": 1940,
+            "vid": "O25UqG89BjM",
+            "vtime": "2:59"
+        },
+        {
+            "title": "\"Maybe\"",
+            "artist": "Ink Spots",
+            "year": 1940,
+            "vid": "wp2Hwi9qM48",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"Beat Me, Daddy, Eight To The Bar\"",
+            "artist": "Andrews Sisters",
+            "year": 1940,
+            "vid": "gjrGKWl2CAM",
+            "vtime": "2:56"
+        },
+        {
+            "title": "\"With the Wind and the Rain in Your Hair\"",
+            "artist": "Bob Crosby & His Orchestra",
+            "year": 1940,
+            "vid": "UiSIewbbeqc",
+            "vtime": "3:07"
+        },
+        {
+            "title": "\"Playmate\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1940,
+            "vid": "sqzP_-pX7yg",
+            "vtime": "2:49"
+        },
+        {
+            "title": "\"It's a Blue World\"",
+            "artist": "Tony Martin",
+            "year": 1940,
+            "vid": "5r9PpM5bEFc",
+            "vtime": "1:47"
+        },
+        {
+            "title": "\"When The Swallows Come Back To Capistrano\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "LnWSyxkQwZM",
+            "vtime": "2:49"
+        },
+        {
+            "title": "\"Say It\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "viY2RiCIO2g",
+            "vtime": "2:45"
+        },
+        {
+            "title": "\"A Nightingale Sang In Berkeley Square\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1940,
+            "vid": "Xzo8UbeSpfs",
+            "vtime": "3:36"
         },
         {
             "title": "\"Amapola (Pretty Little Poppy)\"",
-            "artist": "Jimmy Dorsey and His Orchestra",
+            "artist": "Jimmy Dorsey & His Orchestra",
             "year": 1941,
             "vid": "UcFNRGsDQ1s",
             "vtime": "3:23"
         },
         {
-            "title": "\"My Sister and I\"",
-            "artist": "Jimmy Dorsey and His Orchestra",
-            "year": 1941,
-            "vid": "BDfxp8JPFZc",
-            "vtime": "3:07"
-        },
-        {
-            "title": "\"María Elena\"",
-            "artist": "Jimmy Dorsey and His Orchestra",
-            "year": 1941,
-            "vid": "-Na7l0j0TqY",
-            "vtime": "3:04"
-        },
-        {
-            "title": "\"Daddy\"",
-            "artist": "Sammy Kaye and His Orchestra",
-            "year": 1941,
-            "vid": "c8nGrDarRJQ",
-            "vtime": "2:59"
-        },
-        {
-            "title": "\"Green Eyes (Aquellos Ojos Verdes)\"",
-            "artist": "Jimmy Dorsey and His Orchestra",
-            "year": 1941,
-            "vid": "V8hMyVQaCUo",
-            "vtime": "3:22"
-        },
-        {
-            "title": "\"Blue Champagne\"",
-            "artist": "Jimmy Dorsey and His Orchestra",
-            "year": 1941,
-            "vid": "g71xusyE7Ug",
-            "vtime": "3:10"
-        },
-        {
-            "title": "\"Piano Concerto in B Flat\"",
-            "artist": "Freddy Martin and His Orchestra",
-            "year": 1941,
-            "vid": "ckgH8UlIu1k",
-            "vtime": "3:14"
-        },
-        {
             "title": "\"Chattanooga Choo Choo\"",
-            "artist": "Glenn Miller and His Orchestra",
+            "artist": "Glenn Miller & His Orchestra",
             "year": 1941,
             "vid": "-XQybKMXL-k",
             "vtime": "4:44"
         },
         {
+            "title": "\"Piano Concerto In B Flat\"",
+            "artist": "Freddy Martin & His Orchestra",
+            "year": 1941,
+            "vid": "ckgH8UlIu1k",
+            "vtime": "3:14"
+        },
+        {
+            "title": "\"Daddy\"",
+            "artist": "Sammy Kaye & His Orchestra",
+            "year": 1941,
+            "vid": "c8nGrDarRJQ",
+            "vtime": "2:59"
+        },
+        {
+            "title": "\"María Elena\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "-Na7l0j0TqY",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"You And I\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1941,
+            "vid": "jZPbCfIT4EQ",
+            "vtime": "3:25"
+        },
+        {
+            "title": "\"Green Eyes (Aquellos Ojos Verdes)\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "V8hMyVQaCUo",
+            "vtime": "3:22"
+        },
+        {
+            "title": "\"There'll Be Some Changes Made\"",
+            "artist": "Benny Goodman & His Orchestra",
+            "year": 1941,
+            "vid": "EZzFTQMwNk8",
+            "vtime": "2:50"
+        },
+        {
+            "title": "\"I Don't Want To Set The World On Fire\"",
+            "artist": "Horace Heidt & His Orchestra",
+            "year": 1941,
+            "vid": "UxWASUPbza0",
+            "vtime": "3:21"
+        },
+        {
+            "title": "\"(Lights Out) Til Reveille\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1941,
+            "vid": "knP5YadnfQo",
+            "vtime": "2:29"
+        },
+        {
+            "title": "\"The Band Played On\"",
+            "artist": "Guy Lombardo & His Royal Canadians",
+            "year": 1941,
+            "vid": "v8wujySB4CE",
+            "vtime": "2:34"
+        },
+        {
+            "title": "\"My Sister and I\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "BDfxp8JPFZc",
+            "vtime": "3:07"
+        },
+        {
+            "title": "\"High On A Windy Hill\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "mx30o6lgPnY",
+            "vtime": "3:17"
+        },
+        {
+            "title": "\"I Hear A Rhapsody\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "d0-j09-yOMQ",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"Blue Champagne\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "g71xusyE7Ug",
+            "vtime": "3:10"
+        },
+        {
             "title": "\"Elmer's Tune\"",
-            "artist": "Glenn Miller and His Orchestra",
+            "artist": "Glenn Miller & His Orchestra",
             "year": 1941,
             "vid": "lCUsYIwpfVs",
             "vtime": "3:17"
         },
         {
-            "title": "\"A String of Pearls\"",
-            "artist": "Glenn Miller and His Orchestra",
-            "year": 1942,
-            "vid": "jg2vtWezWbw",
-            "vtime": "3:17"
+            "title": "\"Dolores\"",
+            "artist": "Tommy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "k68wXFyg_sU",
+            "vtime": "2:59"
         },
         {
-            "title": "\"Blues in the Night (My Mama Done Tol' Me)\"",
-            "artist": "Woody Herman and His Orchestra",
-            "year": 1942,
-            "vid": "TMRxaRo662k",
-            "vtime": "3:20"
+            "title": "\"Dream Valley\"",
+            "artist": "Sammy Kaye & His Orchestra",
+            "year": 1941,
+            "vid": "oAZaOrQcUVQ",
+            "vtime": "3:05"
         },
         {
-            "title": "\"Moonlight Cocktail\"",
-            "artist": "Glenn Miller and His Orchestra",
-            "year": 1942,
-            "vid": "MPF38fYkBjc",
-            "vtime": "3:21"
-        },
-        {
-            "title": "\"Tangerine\"",
-            "artist": "Jimmy Dorsey and His Orchestra",
-            "year": 1942,
-            "vid": "zdistoUW4CQ",
-            "vtime": "3:17"
-        },
-        {
-            "title": "\"Sleepy Lagoon\"",
-            "artist": "Harry James and His Orchestra",
-            "year": 1942,
-            "vid": "tMcUIjUdAWY",
+            "title": "\"Intermezzo (Souvenir De Vienne)\"",
+            "artist": "Guy Lombardo & His Orchestra",
+            "year": 1941,
+            "vid": "ILlKIaH1S3M",
             "vtime": "3:01"
         },
         {
-            "title": "\"Jingle Jangle Jingle\"",
-            "artist": "Kay Kyser and His Orchestra",
-            "year": 1942,
-            "vid": "Lq7wO1qtQuM",
+            "title": "\"Song Of The Volga Boatmen\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1941,
+            "vid": "8UJsPsG6UAM",
+            "vtime": "3:24"
+        },
+        {
+            "title": "\"Oh, Look At Me Now\"",
+            "artist": "Tommy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "Mo0SPiXDGoI",
             "vtime": "3:22"
         },
         {
-            "title": "\"(I've Got a Gal in) Kalamazoo\"",
-            "artist": "Glenn Miller and His Orchestra",
-            "year": 1942,
-            "vid": "TurG8WeEQk4",
-            "vtime": "4:19"
+            "title": "\"I Hear A Rhapsody\"",
+            "artist": "Charlie Barney & His Orchestra",
+            "year": 1941,
+            "vid": "Rycn3VrzWkI",
+            "vtime": "3:24"
+        },
+        {
+            "title": "\"It All Comes Back To Me Now\"",
+            "artist": "Gene Krupa & His Orchestra",
+            "year": 1941,
+            "vid": "VOYx4u0ST5Y",
+            "vtime": "3:16"
+        },
+        {
+            "title": "\"Yours\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "ve8o_JMqVVA",
+            "vtime": "3:16"
+        },
+        {
+            "title": "\"G'bye Now\"",
+            "artist": "Horace Heidt & His Orchestra",
+            "year": 1941,
+            "vid": "cW-JgA-V1k4",
+            "vtime": "3:11"
+        },
+        {
+            "title": "\"Dolores\"",
+            "artist": "Bing Crosby",
+            "year": 1941,
+            "vid": "xU8jeenfi3o",
+            "vtime": "3:16"
+        },
+        {
+            "title": "\"Jim\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1941,
+            "vid": "q-JDUnZv1N0",
+            "vtime": "3:11"
+        },
+        {
+            "title": "\"Down Argentina Way\"",
+            "artist": "Bob Crosby & His Orchestra",
+            "year": 1941,
+            "vid": "FGoHN_JTXNo",
+            "vtime": "2:31"
+        },
+        {
+            "title": "\"The Hut-Sut Song (A Swedish Serenade)\"",
+            "artist": "Freddy Martin & His Orchestra",
+            "year": 1941,
+            "vid": "Yv-OQHsWlqw",
+            "vtime": "2:49"
+        },
+        {
+            "title": "\"Star Dust\"",
+            "artist": "Artie Shaw & His Orchestra",
+            "year": 1941,
+            "vid": "1OixqPThDNE",
+            "vtime": "3:41"
         },
         {
             "title": "\"White Christmas\"",
@@ -148,74 +428,214 @@
             "vtime": "3:03"
         },
         {
-            "title": "\"There Are Such Things\"",
-            "artist": "Tommy Dorsey and His Orchestra",
-            "year": 1943,
-            "vid": "_SD_nK7B408",
-            "vtime": "3:36"
+            "title": "\"Moonlight Cocktail\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1942,
+            "vid": "MPF38fYkBjc",
+            "vtime": "3:21"
         },
         {
-            "title": "\"I Had the Craziest Dream\"",
-            "artist": "Harry James and His Orchestra",
-            "year": 1943,
-            "vid": "tUlYLZuMqwU",
-            "vtime": "3:02"
+            "title": "\"(I've Got a Gal In) Kalamazoo\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1942,
+            "vid": "TurG8WeEQk4",
+            "vtime": "4:19"
         },
         {
-            "title": "\"I've Heard That Song Before\"",
-            "artist": "Harry James and His Orchestra",
-            "year": 1943,
-            "vid": "tX5S9iXmMek",
-            "vtime": "3:04"
+            "title": "\"Jingle, Jangle, Jingle\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1942,
+            "vid": "Lq7wO1qtQuM",
+            "vtime": "3:22"
         },
         {
-            "title": "\"That Old Black Magic\"",
-            "artist": "Glenn Miller and His Orchestra",
-            "year": 1943,
-            "vid": "SJcHVzvfMBA",
-            "vtime": "3:00"
+            "title": "\"Tangerine\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1942,
+            "vid": "zdistoUW4CQ",
+            "vtime": "3:17"
         },
         {
-            "title": "\"Taking a Chance on Love\"",
-            "artist": "Benny Goodman and His Orchestra",
-            "year": 1943,
-            "vid": "pW-IXbzznLo",
+            "title": "\"Jersey Bounce\"",
+            "artist": "Benny Goodman & His Orchestra",
+            "year": 1942,
+            "vid": "kmH45KghH_E",
+            "vtime": "2:56"
+        },
+        {
+            "title": "\"Sleepy Lagoon\"",
+            "artist": "Harry James & His Orchestra",
+            "year": 1942,
+            "vid": "tMcUIjUdAWY",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"Blues in the Night (My Mama Done Tol' Me)\"",
+            "artist": "Woody Herman & His Orchestra",
+            "year": 1942,
+            "vid": "TMRxaRo662k",
+            "vtime": "3:20"
+        },
+        {
+            "title": "\"He Wears a Pair of Silver Wings\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1942,
+            "vid": "TXnMT2kW958",
+            "vtime": "3:15"
+        },
+        {
+            "title": "\"Somebody Else Is Taking My Place\"",
+            "artist": "Benny Goodman & His Orchestra",
+            "year": 1942,
+            "vid": "ht3TuMZeljM",
             "vtime": "3:10"
         },
         {
-            "title": "\"Comin' in on a Wing and a Prayer\"",
-            "artist": "The Song Spinners",
-            "year": 1943,
-            "vid": "rZo7TsFIQdw",
-            "vtime": "2:22"
+            "title": "\"Praise The Lord And Pass The Ammunition\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1942,
+            "vid": "LJfJPxLntZU",
+            "vtime": "2:36"
         },
         {
-            "title": "\"You'll Never Know\"",
-            "artist": "Dick Haymes",
-            "year": 1943,
-            "vid": "am10msR8bEw",
-            "vtime": "2:48"
+            "title": "\"When The Lights Go On Again (All Over The World)\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1942,
+            "vid": "JD8sEFpbk-w",
+            "vtime": "3:09"
         },
         {
-            "title": "\"In the Blue of Evening\"",
-            "artist": "Tommy Dorsey and His Orchestra",
-            "year": 1943,
-            "vid": "i94woM9zO1I",
+            "title": "\"Who Wouldn't Love You\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1942,
+            "vid": "1POQ7jjLkmk",
+            "vtime": "2:40"
+        },
+        {
+            "title": "\"A String of Pearls\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1942,
+            "vid": "jg2vtWezWbw",
+            "vtime": "3:17"
+        },
+        {
+            "title": "\"Don't Sit Under The Apple Tree (With Anyone else But Me)\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1942,
+            "vid": "e2iSaFW9HUk",
+            "vtime": "3:12"
+        },
+        {
+            "title": "\"I Don't Want To Walk Without You\"",
+            "artist": "Harry James & His Orchestra",
+            "year": 1942,
+            "vid": "K6dUkkjPI_I",
+            "vtime": "2:59"
+        },
+        {
+            "title": "\"Mister Five By Five\"",
+            "artist": "Harry James & His Orchestra",
+            "year": 1942,
+            "vid": "Bs2rlyKuDtQ",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"Strip Polka\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1942,
+            "vid": "xpWlaxvYs2E",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"Rose O'Day (The Filla-Da-Susha Song)\"",
+            "artist": "Freddy Martin & His Orchestra",
+            "year": 1942,
+            "vid": "z5RAcPny_Oc",
+            "vtime": "2:25"
+        },
+        {
+            "title": "\"My Devotion\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1942,
+            "vid": "o03lsJBbY7Q",
+            "vtime": "3:10"
+        },
+        {
+            "title": "\"(There'll be Bluebirds Over) The White Cliffs of Dover\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1942,
+            "vid": "ZDaZgUjoniY",
+            "vtime": "3:09"
+        },
+        {
+            "title": "\"Deep In The Heart of Texas\"",
+            "artist": "Alvino Rey & His Orchestra",
+            "year": 1942,
+            "vid": "w5t6RGs11_Y",
+            "vtime": "2:40"
+        },
+        {
+            "title": "\"Be Careful It's My Heart\"",
+            "artist": "Bing Crosby",
+            "year": 1942,
+            "vid": "-d576JIXAuE",
+            "vtime": "2:47"
+        },
+        {
+            "title": "\"My Devotion\"",
+            "artist": "Charlie Spivak & His Orchestra",
+            "year": 1942,
+            "vid": "e3sfGn_OlDs",
+            "vtime": "3:23"
+        },
+        {
+            "title": "\"Serenade In Blue\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1942,
+            "vid": "I2f_TBxagQY",
+            "vtime": "2:53"
+        },
+        {
+            "title": "\"Johnny Doughboy Found a Rose In Ireland\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1942,
+            "vid": "oAVmrhUf5ho",
+            "vtime": "3:11"
+        },
+        {
+            "title": "\"I Said No!\"",
+            "artist": "Alvino Rey & His Orchestra",
+            "year": 1942,
+            "vid": "zoBuH0UEdrM",
+            "vtime": "3:18"
+        },
+        {
+            "title": "\"Der Fuehrer's Face\"",
+            "artist": "Spike Jones & His City Slickers",
+            "year": 1942,
+            "vid": "I1583adUqSg",
+            "vtime": "1:49"
+        },
+        {
+            "title": "\"One Dozen Roses\"",
+            "artist": "Dick Jurgens & His Orchestra",
+            "year": 1942,
+            "vid": "SXIH8yTSvtI",
             "vtime": "2:58"
         },
         {
-            "title": "\"Sunday, Monday, or Always\"",
-            "artist": "Bing Crosby",
-            "year": 1943,
-            "vid": "B5KZfKWheTg",
-            "vtime": "2:39"
+            "title": "\"I Left My Heart At The Stage Door Canteen\"",
+            "artist": "Sammy Kaye & His Orchestra",
+            "year": 1942,
+            "vid": "6A26Faza1QI",
+            "vtime": "3:20"
         },
         {
-            "title": "\"Pistol Packin' Mama\"",
-            "artist": "Al Dexter",
+            "title": "\"I've Heard That Song Before\"",
+            "artist": "Harry James & His Orchestra",
             "year": 1943,
-            "vid": "tLODU4d8vgE",
-            "vtime": "2:50"
+            "vid": "tX5S9iXmMek",
+            "vtime": "3:04"
         },
         {
             "title": "\"Paper Doll\"",
@@ -225,25 +645,263 @@
             "vtime": "2:53"
         },
         {
-            "title": "\"My Heart Tells Me (Should I Believe My Heart)\"",
-            "artist": "Glen Gray and His Orchestra",
+            "title": "\"Pistol Packin' Mama\"",
+            "artist": "Al Dexter & His Troopers",
+            "year": 1943,
+            "vid": "tLODU4d8vgE",
+            "vtime": "2:50"
+        },
+        {
+            "title": "\"Sunday, Monday, or Always\"",
+            "artist": "Bing Crosby",
+            "year": 1943,
+            "vid": "B5KZfKWheTg",
+            "vtime": "2:39"
+        },
+        {
+            "title": "\"You'll Never Know\"",
+            "artist": "Dick Haymes",
+            "year": 1943,
+            "vid": "am10msR8bEw",
+            "vtime": "2:48"
+        },
+        {
+            "title": "\"There Are Such Things\"",
+            "artist": "Tommy Dorsey & His Orchestra",
+            "year": 1943,
+            "vid": "_SD_nK7B408",
+            "vtime": "3:36"
+        },
+        {
+            "title": "\"As Time Goes By\"",
+            "artist": "Rudy Vallee & His Connecticut Yankees",
+            "year": 1943,
+            "vid": "MIQqWJiMu-8",
+            "vtime": "3:32"
+        },
+        {
+            "title": "\"In The Blue Of Evening\"",
+            "artist": "Tommy Dorsey & His Orchestra",
+            "year": 1943,
+            "vid": "i94woM9zO1I",
+            "vtime": "2:58"
+        },
+        {
+            "title": "\"Taking a Chance on Love\"",
+            "artist": "Benny Goodman & His Orchestra",
+            "year": 1943,
+            "vid": "pW-IXbzznLo",
+            "vtime": "3:10"
+        },
+        {
+            "title": "\"Let's Get Lost\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1943,
+            "vid": "RUkeqQdyFUk",
+            "vtime": "3:52"
+        },
+        {
+            "title": "\"Comin' In On a Wing and a Prayer\"",
+            "artist": "Song Spinners",
+            "year": 1943,
+            "vid": "rZo7TsFIQdw",
+            "vtime": "2:22"
+        },
+        {
+            "title": "\"I Had The Craziest Dream\"",
+            "artist": "Harry James & His Orchestra",
+            "year": 1943,
+            "vid": "tUlYLZuMqwU",
+            "vtime": "3:02"
+        },
+        {
+            "title": "\"All or Nothing at All\"",
+            "artist": "Frank Sinatra",
+            "year": 1943,
+            "vid": "TfeBAo-08c0",
+            "vtime": "3:59"
+        },
+        {
+            "title": "\"Moonlight Becomes You\"",
+            "artist": "Bing Crosby",
+            "year": 1943,
+            "vid": "dUmkz95E7mw",
+            "vtime": "3:03"
+        },
+        {
+            "title": "\"That Old Black Magic\"",
+            "artist": "Glenn Miller & His Orchestra",
+            "year": 1943,
+            "vid": "SJcHVzvfMBA",
+            "vtime": "3:00"
+        },
+        {
+            "title": "\"It Can't Be Wrong\"",
+            "artist": "Dick Haymes",
+            "year": 1943,
+            "vid": "W58FogDsxZo",
+            "vtime": "3:15"
+        },
+        {
+            "title": "\"Brazil\"",
+            "artist": "Xavier Cugat & His Waldorf-Astoria Orchestra",
+            "year": 1943,
+            "vid": "IVR0ZsYTFwI",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"Pistol Packin' Mama\"",
+            "artist": "Bing Crosby & Andrews Sisters",
+            "year": 1943,
+            "vid": "b39ALX4neIk",
+            "vtime": "3:02"
+        },
+        {
+            "title": "\"Don't Get Around Much Anymore\"",
+            "artist": "Ink Spots",
+            "year": 1943,
+            "vid": "xBAbXH0JVWE",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"Velvet Moon\"",
+            "artist": "Harry James & His Orchestra",
+            "year": 1943,
+            "vid": "jS4IZP-RZaQ",
+            "vtime": "3:32"
+        },
+        {
+            "title": "\"You'll Never Know\"",
+            "artist": "Frank Sinatra",
+            "year": 1943,
+            "vid": "l1GUaIwBVNE",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"Comin' in On a Wing and a Prayer\"",
+            "artist": "Willie Kelly & His Orchestra",
+            "year": 1943,
+            "vid": "LJqzVqqAQyI",
+            "vtime": "2:52"
+        },
+        {
+            "title": "\"I Heard You Cried Last Night\"",
+            "artist": "Harry James & His Orchestra",
+            "year": 1943,
+            "vid": "XmCGQh-eqV4",
+            "vtime": "2:59"
+        },
+        {
+            "title": "\"People Will Say We're In Love\"",
+            "artist": "Bing Crosby & Trudy Erwin",
+            "year": 1943,
+            "vid": "T6Q6jpfHWGI",
+            "vtime": "2:58"
+        },
+        {
+            "title": "\"For Me and My Gal\"",
+            "artist": "Judy Garland & Gene Kelly",
+            "year": 1943,
+            "vid": "IsE8h53P9Vg",
+            "vtime": "4:12"
+        },
+        {
+            "title": "\"You'd be So Nice to Come Home to\"",
+            "artist": "Dinah Shore",
+            "year": 1943,
+            "vid": "2w5KNm1LQ78",
+            "vtime": "2:58"
+        },
+        {
+            "title": "\"People Will Say We're In Love\"",
+            "artist": "Frank Sinatra",
+            "year": 1943,
+            "vid": "Odb_36tsEnI",
+            "vtime": "3:25"
+        },
+        {
+            "title": "\"As Time Goes By\"",
+            "artist": "Jacques Renard & His Orchestra",
+            "year": 1943,
+            "vid": "sfF8wCvV_oQ",
+            "vtime": "3:07"
+        },
+        {
+            "title": "\"It's Always You\"",
+            "artist": "Tommy Dorsey & His Orchestra",
+            "year": 1943,
+            "vid": "RkX7AE2r9N0",
+            "vtime": "3:14"
+        },
+        {
+            "title": "\"In My Arms\"",
+            "artist": "Dick Haymes",
+            "year": 1943,
+            "vid": "j1VoRegvn2Y",
+            "vtime": "2:48"
+        },
+        {
+            "title": "\"Swinging On A Star\"",
+            "artist": "Bing Crosby",
             "year": 1944,
-            "vid": "ZhS5qJ-KNRU",
-            "vtime": "3:22"
+            "vid": "rATftJiWdkw",
+            "vtime": "2:31"
+        },
+        {
+            "title": "\"Shoo-Shoo Baby\"",
+            "artist": "Andrews Sisters",
+            "year": 1944,
+            "vid": "lT7_YHwnfjM",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"Don't Fence Me In\"",
+            "artist": "Bing Crosby & Andrews Sisters",
+            "year": 1944,
+            "vid": "BpfGqCw0O9A",
+            "vtime": "3:06"
         },
         {
             "title": "\"Bésame Mucho (Kiss Me Much)\"",
-            "artist": "Jimmy Dorsey and His Orchestra",
+            "artist": "Jimmy Dorsey & His Orchestra",
             "year": 1944,
             "vid": "GmTKkKeznzU",
             "vtime": "3:04"
         },
         {
-            "title": "\"It's Love-Love-Love\"",
-            "artist": "Guy Lombardo and His Orchestra",
+            "title": "\"I'll Get By (As Long as I Have You)\"",
+            "artist": "Harry James & His Orchestra",
             "year": 1944,
-            "vid": "xJe7_BlfEbw",
-            "vtime": "2:28"
+            "vid": "UsPn4y3_M-k",
+            "vtime": "2:42"
+        },
+        {
+            "title": "\"A Hot Time in the Town of Berlin\"",
+            "artist": "Bing Crosby & Andrews Sisters",
+            "year": 1944,
+            "vid": "QrVaObffYNw",
+            "vtime": "2:56"
+        },
+        {
+            "title": "\"You Always Hurt The One You Love\"",
+            "artist": "Mills Brothers",
+            "year": 1944,
+            "vid": "mS9U75YC-jA",
+            "vtime": "3:13"
+        },
+        {
+            "title": "\"San Fernando Valley\"",
+            "artist": "Bing Crosby",
+            "year": 1944,
+            "vid": "bDXHjjidiQg",
+            "vtime": "3:17"
+        },
+        {
+            "title": "\"My Heart Tells Me (Should I Believe My Heart)\"",
+            "artist": "Glen Gray & Casa Loma Orchestra",
+            "year": 1944,
+            "vid": "fP_JbMOhG8A",
+            "vtime": "3:22"
         },
         {
             "title": "\"I Love You\"",
@@ -253,32 +911,11 @@
             "vtime": "2:36"
         },
         {
-            "title": "\"I'll Get By (As Long as I Have You)\"",
-            "artist": "Harry James and His Orchestra",
+            "title": "\"Mairzy Doats\"",
+            "artist": "Merry Macs",
             "year": 1944,
-            "vid": "UsPn4y3_M-k",
-            "vtime": "2:42"
-        },
-        {
-            "title": "\"I'll Be Seeing You\"",
-            "artist": "Bing Crosby",
-            "year": 1944,
-            "vid": "JSIodQjUSmg",
-            "vtime": "2:54"
-        },
-        {
-            "title": "\"Swinging on a Star\"",
-            "artist": "Bing Crosby",
-            "year": 1944,
-            "vid": "rATftJiWdkw",
-            "vtime": "2:31"
-        },
-        {
-            "title": "\"You Always Hurt the One You Love\"",
-            "artist": "Mills Brothers",
-            "year": 1944,
-            "vid": "mS9U75YC-jA",
-            "vtime": "3:13"
+            "vid": "vrZGC7tsc7M",
+            "vtime": "2:48"
         },
         {
             "title": "\"I'll Walk Alone\"",
@@ -288,123 +925,403 @@
             "vtime": "2:51"
         },
         {
+            "title": "\"I'll Be Seeing You\"",
+            "artist": "Bing Crosby",
+            "year": 1944,
+            "vid": "JSIodQjUSmg",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"G.I. Jive\"",
+            "artist": "Louis Jordan & His Tympany Five",
+            "year": 1944,
+            "vid": "6KgcHy5gh30",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"Into Each Life Some Rain Must Fall\"",
+            "artist": "Ella Fitzgerald & Ink Spots",
+            "year": 1944,
+            "vid": "PJ9IaplRrm4",
+            "vtime": "3:11"
+        },
+        {
             "title": "\"I'm Making Believe\"",
-            "artist": "The Ink Spots and Ella Fitzgerald",
+            "artist": "Ella Fitzgerald & Ink Spots",
             "year": 1944,
             "vid": "OWmHRI-g9OY",
             "vtime": "3:20"
         },
         {
-            "title": "\"Don't Fence Me In\"",
-            "artist": "Bing Crosby and The Andrews Sisters",
+            "title": "\"It's Love-Love-Love\"",
+            "artist": "Guy Lombardo & His Royal Canadians",
             "year": 1944,
-            "vid": "vMnLoOnrwbg",
-            "vtime": "3:07"
+            "vid": "xJe7_BlfEbw",
+            "vtime": "2:28"
+        },
+        {
+            "title": "\"Holiday For Strings\"",
+            "artist": "David Rose & His Orchestra",
+            "year": 1944,
+            "vid": "f2u0BvyDxdM",
+            "vtime": "2:28"
+        },
+        {
+            "title": "\"Is You Is Or Is You Ain't My Baby\"",
+            "artist": "Louis Jordan & His Tympany Five",
+            "year": 1944,
+            "vid": "fCoHwMrRgis",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"Amor\"",
+            "artist": "Bing Crosby",
+            "year": 1944,
+            "vid": "G-jDe9cpADw",
+            "vtime": "2:41"
+        },
+        {
+            "title": "\"The Trolley Song\"",
+            "artist": "Pied Pipers",
+            "year": 1944,
+            "vid": "flboiQjexFA",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"Long Ago (And Far Away)\"",
+            "artist": "Helen Forrest & Dick Haymes",
+            "year": 1944,
+            "vid": "RK5LEU5_99M",
+            "vtime": "3:26"
+        },
+        {
+            "title": "\"Is You Is Or Is You Ain't (Ma' Baby)\"",
+            "artist": "Bing Crosby & Andrews Sisters",
+            "year": 1944,
+            "vid": "9oElUtVKBF4",
+            "vtime": "3:02"
+        },
+        {
+            "title": "\"Time Waits For No One\"",
+            "artist": "Helen Forrest",
+            "year": 1944,
+            "vid": "oW6GclIvXFo",
+            "vtime": "3:18"
+        },
+        {
+            "title": "\"They're Either Too Young or Too Old\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1944,
+            "vid": "X-AA5ssd81g",
+            "vtime": "3:11"
+        },
+        {
+            "title": "\"Don't Sweetheart Me\"",
+            "artist": "Lawrence Welk & His Orchestra",
+            "year": 1944,
+            "vid": "xAxVb6nYyxY",
+            "vtime": "2:47"
+        },
+        {
+            "title": "\"Star Eyes\"",
+            "artist": "Jimmy Dorsey & His Orchestra",
+            "year": 1944,
+            "vid": "mR3sFmrGlRo",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"Together\"",
+            "artist": "Helen Forrest & Dick Haymes",
+            "year": 1944,
+            "vid": "hlsjXW2sr3U",
+            "vtime": "3:08"
+        },
+        {
+            "title": "\"Poinciana (Song Of The Tree)\"",
+            "artist": "Bing Crosby",
+            "year": 1944,
+            "vid": "gwDm6Bi20Z4",
+            "vtime": "2:39"
+        },
+        {
+            "title": "\"Dance with a Dolly (With a Hole in Her Stocking)\"",
+            "artist": "Russ Morgan & His Orchestra",
+            "year": 1944,
+            "vid": "ETgQXTpeL_U",
+            "vtime": "2:43"
         },
         {
             "title": "\"Rum and Coca-Cola\"",
-            "artist": "The Andrews Sisters",
+            "artist": "Andrews Sisters",
             "year": 1945,
             "vid": "zGxL2uNr7bk",
             "vtime": "3:06"
         },
         {
-            "title": "\"My Dreams Are Getting Better All the Time\"",
-            "artist": "Les Brown and His Orchestra",
-            "year": 1945,
-            "vid": "KXW8ogLgiGw",
-            "vtime": "3:18"
-        },
-        {
-            "title": "\"Sentimental Journey\"",
-            "artist": "Les Brown and His Orchestra",
-            "year": 1945,
-            "vid": "O7umIJj8UBo",
-            "vtime": "3:16"
-        },
-        {
-            "title": "\"On the Atchison, Topeka and the Santa Fe\"",
-            "artist": "Johnny Mercer and The Pied Pipers",
-            "year": 1945,
-            "vid": "cmBKHSZ1pcU",
-            "vtime": "3:07"
-        },
-        {
-            "title": "\"Till the End of Time\"",
+            "title": "\"Till The End Of Time\"",
             "artist": "Perry Como",
             "year": 1945,
             "vid": "xSJ-oT2ZBa0",
             "vtime": "3:29"
         },
         {
+            "title": "\"Sentimental Journey\"",
+            "artist": "Les Brown & His Orchestra",
+            "year": 1945,
+            "vid": "O7umIJj8UBo",
+            "vtime": "3:16"
+        },
+        {
+            "title": "\"On the Atchison, Topeka, and the Santa Fe\"",
+            "artist": "Johnny Mercer",
+            "year": 1945,
+            "vid": "cmBKHSZ1pcU",
+            "vtime": "3:07"
+        },
+        {
+            "title": "\"My Dreams Are Getting Better All The Time\"",
+            "artist": "Les Brown & His Orchestra",
+            "year": 1945,
+            "vid": "IZVyPsveAoU",
+            "vtime": "3:23"
+        },
+        {
+            "title": "\"There! I've Said it Again\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1945,
+            "vid": "4Um92VEf66A",
+            "vtime": "3:10"
+        },
+        {
+            "title": "\"I Can't Begin to Tell You\"",
+            "artist": "Bing Crosby",
+            "year": 1945,
+            "vid": "2Bfh0_Qa1Jo",
+            "vtime": "2:52"
+        },
+        {
             "title": "\"Chickery Chick\"",
-            "artist": "Sammy Kaye and His Orchestra",
+            "artist": "Sammy Kaye & His Orchestra",
             "year": 1945,
             "vid": "AegOoQRd90E",
             "vtime": "2:18"
         },
         {
             "title": "\"It's Been a Long, Long Time\"",
-            "artist": "Harry James and His Orchestra",
+            "artist": "Harry James & His Orchestra",
             "year": 1945,
             "vid": "vJFf29jUnrs",
             "vtime": "3:32"
         },
         {
+            "title": "\"I'm Beginning To See The Light\"",
+            "artist": "Harry James & His Orchestra",
+            "year": 1945,
+            "vid": "R01JZm9A15U",
+            "vtime": "3:17"
+        },
+        {
+            "title": "\"Ac-Cent-Tchu-Ate The Positive\"",
+            "artist": "Johnny Mercer & Pied Pipers",
+            "year": 1945,
+            "vid": "f3jdbFOidds",
+            "vtime": "3:31"
+        },
+        {
             "title": "\"It's Been a Long, Long Time\"",
-            "artist": "Bing Crosby with The Les Paul Trio",
+            "artist": "Bing Crosby & Les Paul",
             "year": 1945,
             "vid": "tsPBNcUw-jA",
             "vtime": "2:58"
         },
         {
-            "title": "\"Symphony\"",
-            "artist": "Freddy Martin and His Orchestra",
-            "year": 1946,
-            "vid": "SC9_eTb6KZ8",
-            "vtime": "3:18"
+            "title": "\"Candy\"",
+            "artist": "Johnny Mercer, Jo Stafford, & Pied Pipers",
+            "year": 1945,
+            "vid": "eJ7gTjOge8Y",
+            "vtime": "3:10"
         },
         {
-            "title": "\"I Can't Begin to Tell You\"",
-            "artist": "Bing Crosby and Carmen Cavallaro",
-            "year": 1946,
-            "vid": "VGDca-AC89g",
-            "vtime": "3:01"
+            "title": "\"Dream\"",
+            "artist": "Pied Pipers",
+            "year": 1945,
+            "vid": "ZLLEc-Xh068",
+            "vtime": "3:25"
         },
         {
-            "title": "\"Let It Snow! Let It Snow! Let It Snow!\"",
-            "artist": "Vaughn Monroe and His Orchestra",
-            "year": 1946,
-            "vid": "ATMRZc1SNOU",
-            "vtime": "3:06"
+            "title": "\"Bell-Bottom Trousers\"",
+            "artist": "Tony Pastor & His Orchestra",
+            "year": 1945,
+            "vid": "rR184ZGzURk",
+            "vtime": "3:02"
         },
         {
-            "title": "\"Doctor, Lawyer, Indian Chief\"",
-            "artist": "Betty Hutton",
-            "year": 1946,
-            "vid": "ZdVZ7Ks8c2g",
+            "title": "\"Caldonia\"",
+            "artist": "Woody Herman & His Orchestra",
+            "year": 1945,
+            "vid": "O6_KA8lKdig",
+            "vtime": "3:08"
+        },
+        {
+            "title": "\"Gotta Be This Or That\"",
+            "artist": "Benny Goodman & His Orchestra",
+            "year": 1945,
+            "vid": "2urvflUdLlw",
+            "vtime": "3:23"
+        },
+        {
+            "title": "\"I'll Buy That Dream\"",
+            "artist": "Helen Forrest & Dick Haymes",
+            "year": 1945,
+            "vid": "iX9Kwd542xk",
+            "vtime": "3:03"
+        },
+        {
+            "title": "\"Saturday Night (Is The Loneliest Night of the Week)\"",
+            "artist": "Frank Sinatra",
+            "year": 1945,
+            "vid": "IP0P2hw31i0",
+            "vtime": "2:45"
+        },
+        {
+            "title": "\"Tampico\"",
+            "artist": "Stan Kenton & His Orchestra",
+            "year": 1945,
+            "vid": "KsU1q44X_2E",
+            "vtime": "2:45"
+        },
+        {
+            "title": "\"Ac-Cent-Tchu-Ate The Positive\"",
+            "artist": "Bing Crosby & Andrews Sisters",
+            "year": 1945,
+            "vid": "fZUmAbi0Vm4",
+            "vtime": "2:44"
+        },
+        {
+            "title": "\"Bell Bottom Trousers\"",
+            "artist": "Guy Lombardo & His Royal Canadians",
+            "year": 1945,
+            "vid": "XxHeqfyuy3I",
+            "vtime": "2:30"
+        },
+        {
+            "title": "\"Along The Navajo Trail\"",
+            "artist": "Bing Crosby & Andrews Sisters",
+            "year": 1945,
+            "vid": "H0FFOIVb4mk",
             "vtime": "2:57"
         },
         {
-            "title": "\"Personality\"",
-            "artist": "Johnny Mercer and The Pied Pipers",
+            "title": "\"I'll Buy That Dream\"",
+            "artist": "Harry James & His Orchestra",
+            "year": 1945,
+            "vid": "9lRe_Q9QbNI",
+            "vtime": "3:22"
+        },
+        {
+            "title": "\"Chopin's Polonaise\"",
+            "artist": "Carmen Cavallaro & His Orchestra",
+            "year": 1945,
+            "vid": "1_PEXm6e4tU",
+            "vtime": "3:15"
+        },
+        {
+            "title": "\"Sentimental Journey\"",
+            "artist": "Hal McIntyre & His Orchestra",
+            "year": 1945,
+            "vid": "wOmHVdXk4sI",
+            "vtime": "3:23"
+        },
+        {
+            "title": "\"My Dreams are Getting Better All the Time\"",
+            "artist": "Johnny Long & His Orchestra",
+            "year": 1945,
+            "vid": "SRtFS_RDKYQ",
+            "vtime": "2:55"
+        },
+        {
+            "title": "\"You Belong To My Heart\"",
+            "artist": "Bing Crosby",
+            "year": 1945,
+            "vid": "DKkfpBf7VpE",
+            "vtime": "2:27"
+        },
+        {
+            "title": "\"Till The End of Time\"",
+            "artist": "Les Brown & His Orchestra",
+            "year": 1945,
+            "vid": "u6EnQRsfsCs",
+            "vtime": "2:59"
+        },
+        {
+            "title": "\"The Gypsy\"",
+            "artist": "Ink Spots",
             "year": 1946,
-            "vid": "gMTPsumjfTA",
+            "vid": "yovIyTnUr5I",
             "vtime": "2:50"
         },
         {
             "title": "\"Oh! What It Seemed to Be\"",
-            "artist": "Frankie Carle and His Orchestra",
+            "artist": "Frankie Carle & His Orchestra",
             "year": 1946,
             "vid": "0G4kT6HK6oI",
             "vtime": "3:01"
         },
         {
-            "title": "\"I'm a Big Girl Now\"",
-            "artist": "Sammy Kaye and His Orchestra",
+            "title": "\"Rumors Are Flying\"",
+            "artist": "Frankie Carle & His Orchestra",
             "year": 1946,
-            "vid": "Ufe2EBGEcXc",
-            "vtime": "3:08"
+            "vid": "S6KIKEeplsQ",
+            "vtime": "2:50"
+        },
+        {
+            "title": "\"To Each His Own\"",
+            "artist": "Eddy Howard & His Orchestra",
+            "year": 1946,
+            "vid": "XpFQhls6DlU",
+            "vtime": "3:02"
+        },
+        {
+            "title": "\"The Gypsy\"",
+            "artist": "Dinah Shore",
+            "year": 1946,
+            "vid": "HwHhlFOKPuE",
+            "vtime": "3:02"
+        },
+        {
+            "title": "\"Oh! What It Seemed to Be\"",
+            "artist": "Frank Sinatra",
+            "year": 1946,
+            "vid": "GsLVseEY6Uc",
+            "vtime": "3:27"
+        },
+        {
+            "title": "\"The Old Lamp-Lighter\"",
+            "artist": "Sammy Kaye & His Orchestra",
+            "year": 1946,
+            "vid": "Ip4HjJULL-s",
+            "vtime": "3:02"
+        },
+        {
+            "title": "\"(I Love You) For Sentimental Reasons\"",
+            "artist": "King Cole Trio",
+            "year": 1946,
+            "vid": "zGMhwPFNz3s",
+            "vtime": "2:56"
+        },
+        {
+            "title": "\"Let It Snow! Let It Snow! Let It Snow!\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1946,
+            "vid": "ATMRZc1SNOU",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"Five Minutes More\"",
+            "artist": "Frank Sinatra",
+            "year": 1946,
+            "vid": "2vkkDnV0aJM",
+            "vtime": "2:32"
         },
         {
             "title": "\"Prisoner of Love\"",
@@ -414,10 +1331,38 @@
             "vtime": "3:22"
         },
         {
-            "title": "\"The Gypsy\"",
-            "artist": "The Ink Spots",
+            "title": "\"Doctor, Lawyer, Indian Chief\"",
+            "artist": "Betty Hutton",
             "year": 1946,
-            "vid": "yovIyTnUr5I",
+            "vid": "ZdVZ7Ks8c2g",
+            "vtime": "2:57"
+        },
+        {
+            "title": "\"Ole Buttermilk Sky\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1946,
+            "vid": "t_iy_RKzACE",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"Symphony\"",
+            "artist": "Freddy Martin & His Orchestra",
+            "year": 1946,
+            "vid": "SC9_eTb6KZ8",
+            "vtime": "3:18"
+        },
+        {
+            "title": "\"To Each His Own\"",
+            "artist": "Freddy Martin & His Orchestra",
+            "year": 1946,
+            "vid": "1O92FM3-uR8",
+            "vtime": "3:08"
+        },
+        {
+            "title": "\"Personality\"",
+            "artist": "Johnny Mercer",
+            "year": 1946,
+            "vid": "gMTPsumjfTA",
             "vtime": "2:50"
         },
         {
@@ -428,81 +1373,165 @@
             "vtime": "3:19"
         },
         {
-            "title": "\"To Each His Own\"",
-            "artist": "Eddy Howard and His Orchestra",
+            "title": "\"I'm A Big Girl Now\"",
+            "artist": "Sammy Kaye & His Orchestra",
             "year": 1946,
-            "vid": "XpFQhls6DlU",
-            "vtime": "3:02"
-        },
-        {
-            "title": "\"To Each His Own\"",
-            "artist": "Freddy Martin and His Orchestra",
-            "year": 1946,
-            "vid": "1O92FM3-uR8",
+            "vid": "Ufe2EBGEcXc",
             "vtime": "3:08"
         },
         {
-            "title": "\"Five Minutes More\"",
-            "artist": "Frank Sinatra",
-            "year": 1946,
-            "vid": "2vkkDnV0aJM",
-            "vtime": "2:32"
-        },
-        {
             "title": "\"To Each His Own\"",
-            "artist": "The Ink Spots",
+            "artist": "Ink Spots",
             "year": 1946,
             "vid": "0G5wqiLiPHg",
             "vtime": "3:16"
         },
         {
-            "title": "\"Rumors Are Flying\"",
-            "artist": "Frankie Carle and His Orchestra",
+            "title": "\"One-Zy, Two-Zy (I Love You-Zy)\"",
+            "artist": "Phil Harris",
             "year": 1946,
-            "vid": "S6KIKEeplsQ",
-            "vtime": "2:50"
+            "vid": "AKg2UnZv2zk",
+            "vtime": "2:43"
         },
         {
-            "title": "\"Ole Buttermilk Sky\"",
-            "artist": "Kay Kyser and His Orchestra",
+            "title": "\"South America, Take It Away\"",
+            "artist": "Bing Crosby & Andrews Sisters",
             "year": 1946,
-            "vid": "t_iy_RKzACE",
-            "vtime": "2:54"
+            "vid": "ZFyaCwbsEvU",
+            "vtime": "3:14"
         },
         {
-            "title": "\"The Old Lamp-Lighter\"",
-            "artist": "Sammy Kaye and His Orchestra",
+            "title": "\"Symphony\"",
+            "artist": "Benny Goodman & His Orchestra (Vocal Liza Morrow)",
+            "year": 1946,
+            "vid": "QrDO5WH4fno",
+            "vtime": "3:12"
+        },
+        {
+            "title": "\"They Say It's Wonderful\"",
+            "artist": "Frank Sinatra",
+            "year": 1946,
+            "vid": "Leba3dEM8j4",
+            "vtime": "3:14"
+        },
+        {
+            "title": "\"Doin' What Comes Natur'lly\"",
+            "artist": "Freddy Martin & His Orchestra",
+            "year": 1946,
+            "vid": "cdm9W1yV4Lk",
+            "vtime": "6:30"
+        },
+        {
+            "title": "\"The Gypsy\"",
+            "artist": "Sammy Kaye & His Orchestra",
             "year": 1946,
             "vid": "Ip4HjJULL-s",
             "vtime": "3:02"
         },
         {
-            "title": "\"(I Love You) For Sentimental Reasons\"",
-            "artist": "The King Cole Trio",
+            "title": "\"Sioux City Sue\"",
+            "artist": "Bing Crosby & Jesters",
+            "year": 1946,
+            "vid": "57dZ1_tu0aM",
+            "vtime": "2:50"
+        },
+        {
+            "title": "\"Dig You Later (A Hubba-Hubba-Hubba)\"",
+            "artist": "Perry Como",
+            "year": 1946,
+            "vid": "jSrxuOIFVrQ",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"To Each His Own\"",
+            "artist": "Modernaires & Paula Kelly",
+            "year": 1946,
+            "vid": "2LydtBw-8Us",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"Doin' What Comes Natur'lly\"",
+            "artist": "Dinah Shore",
+            "year": 1946,
+            "vid": "nlva7Mm3DE4",
+            "vtime": "3:10"
+        },
+        {
+            "title": "\"Near You\"",
+            "artist": "Francis Craig & His Orchestra",
             "year": 1947,
-            "vid": "zGMhwPFNz3s",
+            "vid": "CbZLpAMnclQ",
             "vtime": "2:56"
         },
         {
-            "title": "\"Open the Door, Richard\"",
-            "artist": "Count Basie and His Orchestra",
+            "title": "\"Heartaches\"",
+            "artist": "Ted Weems & His Orchestra",
             "year": 1947,
-            "vid": "KXgOb6ek_Fw",
-            "vtime": "2:41"
+            "vid": "mxe5OmWSJcc",
+            "vtime": "2:44"
+        },
+        {
+            "title": "\"Ballerina\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1947,
+            "vid": "QYVNuxcDcnE",
+            "vtime": "3:25"
+        },
+        {
+            "title": "\"Peg O' My Heart\"",
+            "artist": "Harmonicats",
+            "year": 1947,
+            "vid": "9BIuX7IsdE8",
+            "vtime": "2:14"
+        },
+        {
+            "title": "\"Peg O' My Heart\"",
+            "artist": "Buddy Clark",
+            "year": 1947,
+            "vid": "zcOWDHtNa9Y",
+            "vtime": "3:21"
+        },
+        {
+            "title": "\"Smoke! Smoke! Smoke! (That Cigarette)\"",
+            "artist": "Tex Williams & The Western Caravan",
+            "year": 1947,
+            "vid": "8Zh_WvkhVd8",
+            "vtime": "2:55"
+        },
+        {
+            "title": "\"Peg O' My Heart\"",
+            "artist": "Three Suns",
+            "year": 1947,
+            "vid": "wEN6EnJvnGo",
+            "vtime": "2:53"
         },
         {
             "title": "\"Managua, Nicaragua\"",
-            "artist": "Freddy Martin and His Orchestra",
+            "artist": "Freddy Martin & His Orchestra",
             "year": 1947,
             "vid": "N5nzolCUeLg",
             "vtime": "2:54"
         },
         {
-            "title": "\"Heartaches\"",
-            "artist": "Ted Weems and His Orchestra",
+            "title": "\"Chi-Baba Chi-Baba (My Bambino Go To Sleep)\"",
+            "artist": "Perry Como",
             "year": 1947,
-            "vid": "mxe5OmWSJcc",
-            "vtime": "2:44"
+            "vid": "iHt98_lKP0k",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"Linda\"",
+            "artist": "Ray Noble Orchestra",
+            "year": 1947,
+            "vid": "Ej2HuRw8dlg",
+            "vtime": "3:16"
+        },
+        {
+            "title": "\"Huggin' and Chalkin'\"",
+            "artist": "Hoagy Carmichael",
+            "year": 1947,
+            "vid": "h_QfAzJP2Zo",
+            "vtime": "2:45"
         },
         {
             "title": "\"Mam'selle\"",
@@ -512,88 +1541,116 @@
             "vtime": "3:16"
         },
         {
-            "title": "\"Peg o' My Heart\"",
-            "artist": "The Harmonicats",
+            "title": "\"Anniversary Song\"",
+            "artist": "Dinah Shore",
             "year": 1947,
-            "vid": "sF0f1TFx-0Q",
-            "vtime": "2:53"
-        },
-        {
-            "title": "\"Chi-Baba, Chi-Baba (My Bambino Go to Sleep)\"",
-            "artist": "Perry Como",
-            "year": 1947,
-            "vid": "iHt98_lKP0k",
-            "vtime": "3:01"
-        },
-        {
-            "title": "\"Smoke! Smoke! Smoke! (That Cigarette)\"",
-            "artist": "Tex Williams",
-            "year": 1947,
-            "vid": "65_-vNtWLLs",
-            "vtime": "3:05"
-        },
-        {
-            "title": "\"Near You\"",
-            "artist": "Francis Craig and His Orchestra",
-            "year": 1947,
-            "vid": "CbZLpAMnclQ",
-            "vtime": "2:56"
-        },
-        {
-            "title": "\"Ballerina\"",
-            "artist": "Vaughn Monroe and His Orchestra",
-            "year": 1947,
-            "vid": "QYVNuxcDcnE",
-            "vtime": "3:25"
-        },
-        {
-            "title": "\"I'm Looking Over a Four Leaf Clover\"",
-            "artist": "Art Mooney and His Orchestra",
-            "year": 1948,
-            "vid": "VY-_8XOrvTs",
-            "vtime": "2:29"
-        },
-        {
-            "title": "\"Mañana (Is Soon Enough for Me)\"",
-            "artist": "Peggy Lee",
-            "year": 1948,
-            "vid": "q4K41Qt_eIU",
+            "vid": "mNfgw5xj384",
             "vtime": "3:04"
         },
         {
-            "title": "\"Nature Boy\"",
-            "artist": "King Cole",
-            "year": 1948,
-            "vid": "Iq0XJCJ1Srw",
-            "vtime": "2:52"
+            "title": "\"Managua, Nicaragua\"",
+            "artist": "Guy Lombardo & His Royal Canadians",
+            "year": 1947,
+            "vid": "mmXyGwSeTgY",
+            "vtime": "3:06"
         },
         {
-            "title": "\"Woody Wood-Pecker\"",
-            "artist": "Kay Kyser and His Orchestra",
-            "year": 1948,
-            "vid": "wyCDt5rZ5b0",
-            "vtime": "3:02"
+            "title": "\"Temptation (Tim-Tayshun)\"",
+            "artist": "Red Ingle & The Natural Seven & Jo Stafford",
+            "year": 1947,
+            "vid": "-DW4ljo8HSM",
+            "vtime": "2:41"
         },
         {
-            "title": "\"You Call Everybody Darlin'\"",
-            "artist": "Al Trace and His Orchestra",
-            "year": 1948,
-            "vid": "RVe__fH4a6s",
-            "vtime": "2:51"
+            "title": "\"Open The Door, Richard\"",
+            "artist": "Three Flames",
+            "year": 1947,
+            "vid": "GMeJHf05q-s",
+            "vtime": "3:16"
         },
         {
-            "title": "\"Twelfth Street Rag\"",
-            "artist": "Pee Wee Hunt and His Orchestra",
-            "year": 1948,
-            "vid": "_IdN9lHTUaQ",
-            "vtime": "3:10"
+            "title": "\"Open The Door, Richard!\"",
+            "artist": "Count Basie & His Orchestra",
+            "year": 1947,
+            "vid": "KXgOb6ek_Fw",
+            "vtime": "2:41"
         },
         {
-            "title": "\"A Tree in the Meadow\"",
-            "artist": "Margaret Whiting",
-            "year": 1948,
-            "vid": "z0kcmiEHhVs",
-            "vtime": "2:43"
+            "title": "\"Mam'selle\"",
+            "artist": "Frank Sinatra",
+            "year": 1947,
+            "vid": "8MACLruZH8Q",
+            "vtime": "3:21"
+        },
+        {
+            "title": "\"Too Fat Polka (I Don't Want Her-You Can Have Her-She's Too Fat For Me)\"",
+            "artist": "Arthur Godfrey",
+            "year": 1947,
+            "vid": "5uOu-sDFfS8",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"The Anniversary Song\"",
+            "artist": "Al Jolson",
+            "year": 1947,
+            "vid": "3VcQVNw2w78",
+            "vtime": "2:59"
+        },
+        {
+            "title": "\"I Wonder, I Wonder, I Wonder\"",
+            "artist": "Eddy Howard & His Orchestra",
+            "year": 1947,
+            "vid": "ztycGiMaEzY",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"My Adobe Hacienda\"",
+            "artist": "Eddy Howard & His Orchestra",
+            "year": 1947,
+            "vid": "C2JM-wXC6Sg",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"I Wish I Didn't Love You So\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1947,
+            "vid": "T7oiD-g772k",
+            "vtime": "2:46"
+        },
+        {
+            "title": "\"Ole Buttermilk Sky\"",
+            "artist": "Hoagy Carmichael",
+            "year": 1947,
+            "vid": "fOgrjd9NKF0",
+            "vtime": "2:15"
+        },
+        {
+            "title": "\"Anniversary Song\"",
+            "artist": "Guy Lombardo & His Royal Canadians",
+            "year": 1947,
+            "vid": "Jp0Cfi80csU",
+            "vtime": "3:19"
+        },
+        {
+            "title": "\"I Wish I Didn't Love You So\"",
+            "artist": "Dinah Shore",
+            "year": 1947,
+            "vid": "Wtu-tDK9i_w",
+            "vtime": "3:00"
+        },
+        {
+            "title": "\"Across The Alley From The Alamo\"",
+            "artist": "Mills Brothers",
+            "year": 1947,
+            "vid": "snJNTgwYUyo",
+            "vtime": "2:32"
+        },
+        {
+            "title": "\"I Never Knew\"",
+            "artist": "Sam Donahue & His Orchestra",
+            "year": 1947,
+            "vid": "PEz3WewzYx4",
+            "vtime": "2:53"
         },
         {
             "title": "\"Buttons and Bows\"",
@@ -603,11 +1660,221 @@
             "vtime": "2:06"
         },
         {
-            "title": "\"All I Want for Christmas (Is My Two Front Teeth)\"",
-            "artist": "Spike Jones and His Orchestra",
+            "title": "\"Manana (Is Soon Enough for Me)\"",
+            "artist": "Peggy Lee",
+            "year": 1948,
+            "vid": "q4K41Qt_eIU",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"Twelfth Street Rag\"",
+            "artist": "Pee Wee Hunt & His Orchestra",
+            "year": 1948,
+            "vid": "_IdN9lHTUaQ",
+            "vtime": "3:10"
+        },
+        {
+            "title": "\"Nature Boy\"",
+            "artist": "Nat \"King\" Cole",
+            "year": 1948,
+            "vid": "Iq0XJCJ1Srw",
+            "vtime": "2:52"
+        },
+        {
+            "title": "\"You Can't Be True, Dear\"",
+            "artist": "Ken Griffin",
+            "year": 1948,
+            "vid": "InWO5bM1JO4",
+            "vtime": "2:44"
+        },
+        {
+            "title": "\"You Call Everybody Darlin'\"",
+            "artist": "Al Trace & His Orchestra",
+            "year": 1948,
+            "vid": "RVe__fH4a6s",
+            "vtime": "2:51"
+        },
+        {
+            "title": "\"Woody Woodpecker\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1948,
+            "vid": "wyCDt5rZ5b0",
+            "vtime": "3:02"
+        },
+        {
+            "title": "\"A Tree In The Meadow\"",
+            "artist": "Margaret Whiting",
+            "year": 1948,
+            "vid": "W0zsJBX42Mw",
+            "vtime": "2:57"
+        },
+        {
+            "title": "\"I'm Looking Over A Four Leaf Clover\"",
+            "artist": "Art Mooney & His Orchestra",
+            "year": 1948,
+            "vid": "VY-_8XOrvTs",
+            "vtime": "2:29"
+        },
+        {
+            "title": "\"Love Somebody\"",
+            "artist": "Doris Day & Buddy Clark",
+            "year": 1948,
+            "vid": "mkiI_aFiPMg",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"Now Is The Hour\"",
+            "artist": "Bing Crosby",
+            "year": 1948,
+            "vid": "w6GhbLsjqcY",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"All I Want For Christmas (Is My Two Front Teeth)\"",
+            "artist": "Spike Jones & His City Slickers",
+            "year": 1948,
+            "vid": "I-iFsxSNN2c",
+            "vtime": "3:12"
+        },
+        {
+            "title": "\"On a Slow Boat to China\"",
+            "artist": "Kay Kyser & His Orchestra",
+            "year": 1948,
+            "vid": "oTyZAM4ROQQ",
+            "vtime": "3:25"
+        },
+        {
+            "title": "\"Woody Woodpecker\"",
+            "artist": "Mel Blanc & Sportsmen",
+            "year": 1948,
+            "vid": "PyJcvUqrcRg",
+            "vtime": "2:21"
+        },
+        {
+            "title": "\"My Happiness\"",
+            "artist": "Jon & Sandra Steele",
+            "year": 1948,
+            "vid": "T4JsN64dUIk",
+            "vtime": "3:04"
+        },
+        {
+            "title": "\"Little White Lies\"",
+            "artist": "Dick Haymes",
+            "year": 1948,
+            "vid": "L3xwyE1Hskw",
+            "vtime": "3:12"
+        },
+        {
+            "title": "\"It's Magic\"",
+            "artist": "Doris Day",
+            "year": 1948,
+            "vid": "JRp1LZOk05o",
+            "vtime": "3:48"
+        },
+        {
+            "title": "\"Golden Earrings\"",
+            "artist": "Peggy Lee",
+            "year": 1948,
+            "vid": "qWnVg5eidq8",
+            "vtime": "3:01"
+        },
+        {
+            "title": "\"Now Is the Hour (Maori Farewell Song)\"",
+            "artist": "Margaret Whiting",
+            "year": 1948,
+            "vid": "tB2yaBklX_U",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"Beg Your Pardon\"",
+            "artist": "Francis Craig & His Orchestra",
+            "year": 1948,
+            "vid": "J7Cn5ofhF9E",
+            "vtime": "2:58"
+        },
+        {
+            "title": "\"Toolie Oolie Doolie (Yodel Polka)\"",
+            "artist": "Andrews Sisters",
+            "year": 1948,
+            "vid": "y7SxaBIJbc0",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"My Happiness\"",
+            "artist": "Pied Pipers",
+            "year": 1948,
+            "vid": "AzBHGSeVRik",
+            "vtime": "2:48"
+        },
+        {
+            "title": "\"Now Is The Hour\"",
+            "artist": "Gracie Fields",
+            "year": 1948,
+            "vid": "jeVI1apgT0w",
+            "vtime": "3:13"
+        },
+        {
+            "title": "\"Baby Face\"",
+            "artist": "Art Mooney & His Orchestra",
+            "year": 1948,
+            "vid": "_kXWqdrIedA",
+            "vtime": "2:19"
+        },
+        {
+            "title": "\"How Soon (Will I Be Seeing You)\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1948,
+            "vid": "_TXTR1lGWUY",
+            "vtime": "3:08"
+        },
+        {
+            "title": "\"Civilization (Bongo, Bongo, Bongo)\"",
+            "artist": "Andrews Sisters & Danny Kaye",
+            "year": 1948,
+            "vid": "VEyDNTLlRgU",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"Maybe You'll Be There\"",
+            "artist": "Gordon Jenkins & His Orchestra",
+            "year": 1948,
+            "vid": "xWb4LmKZEe8",
+            "vtime": "3:14"
+        },
+        {
+            "title": "\"I'll Dance At Your Wedding\"",
+            "artist": "Buddy Clark",
+            "year": 1948,
+            "vid": "CJzEbgVt3D0",
+            "vtime": "3:11"
+        },
+        {
+            "title": "\"Serenade of the Bells\"",
+            "artist": "Sammy Kaye & His Orchestra",
+            "year": 1948,
+            "vid": "oGMe7PMJNIs",
+            "vtime": "3:11"
+        },
+        {
+            "title": "\"Sabre Dance\"",
+            "artist": "Woody Herman & His Orchestra",
+            "year": 1948,
+            "vid": "FvEiC3cRakU",
+            "vtime": "2:37"
+        },
+        {
+            "title": "\"Riders in the Sky (A Cowboy Legend)\"",
+            "artist": "Vaughn Monroe & His Orchestra",
             "year": 1949,
-            "vid": "3sgpSDTuLys",
-            "vtime": "1:35"
+            "vid": "ais2uSUwIuY",
+            "vtime": "3:07"
+        },
+        {
+            "title": "\"That Lucky Old Sun\"",
+            "artist": "Frankie Laine",
+            "year": 1949,
+            "vid": "PL3kvxN3xFc",
+            "vtime": "3:03"
         },
         {
             "title": "\"A Little Bird Told Me\"",
@@ -618,24 +1885,24 @@
         },
         {
             "title": "\"Cruising Down the River\"",
-            "artist": "Blue Barron and His Orchestra",
-            "year": 1949,
-            "vid": "C8xVFJF7F1c",
-            "vtime": "2:57"
-        },
-        {
-            "title": "\"Cruising Down the River\"",
-            "artist": "Russ Morgan and His Orchestra",
+            "artist": "Russ Morgan & His Orchestra",
             "year": 1949,
             "vid": "rpX0mPSYMC8",
             "vtime": "2:36"
         },
         {
-            "title": "\"(Ghost) Riders in the Sky: A Cowboy Legend\"",
-            "artist": "Vaughn Monroe and His Orchestra",
+            "title": "\"Cruising Down The River\"",
+            "artist": "Blue Barron & His Orchestra",
             "year": 1949,
-            "vid": "ais2uSUwIuY",
-            "vtime": "3:07"
+            "vid": "C8xVFJF7F1c",
+            "vtime": "2:57"
+        },
+        {
+            "title": "\"Mule Train\"",
+            "artist": "Frankie Laine",
+            "year": 1949,
+            "vid": "oZ62MOvS2hQ",
+            "vtime": "2:39"
         },
         {
             "title": "\"Some Enchanted Evening\"",
@@ -652,60 +1919,172 @@
             "vtime": "3:26"
         },
         {
-            "title": "\"That Lucky Old Sun\"",
-            "artist": "Frankie Laine",
+            "title": "\"Forever and Ever\"",
+            "artist": "Russ Morgan & His Orchestra",
             "year": 1949,
-            "vid": "PL3kvxN3xFc",
-            "vtime": "3:03"
+            "vid": "WNSVsrFmFV0",
+            "vtime": "2:50"
         },
         {
-            "title": "\"Mule Train\"",
-            "artist": "Frankie Laine",
+            "title": "\"Slippin' Around\"",
+            "artist": "Margaret Whiting & Jimmy Wakely",
             "year": 1949,
-            "vid": "oZ62MOvS2hQ",
-            "vtime": "2:39"
+            "vid": "s3N4XjCeJeg",
+            "vtime": "2:16"
         },
         {
-            "title": "\"Rudolph the Red-Nosed Reindeer\"",
+            "title": "\"Someday\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1949,
+            "vid": "spagcN3XMhQ",
+            "vtime": "3:05"
+        },
+        {
+            "title": "\"\"A\" - You're Adorable (The Alphabet Song)\"",
+            "artist": "Perry Como & Fontane Sisters",
+            "year": 1949,
+            "vid": "Rkk_LhYPk8c",
+            "vtime": "2:31"
+        },
+        {
+            "title": "\"My Darling, My Darling\"",
+            "artist": "Jo Stafford & Gordon MacRae",
+            "year": 1949,
+            "vid": "ykTdtWUM3Oo",
+            "vtime": "2:34"
+        },
+        {
+            "title": "\"Powder Your Face With Sunshine\"",
+            "artist": "Evelyn Knight",
+            "year": 1949,
+            "vid": "1bqFONi3dvY",
+            "vtime": "2:15"
+        },
+        {
+            "title": "\"Careless Hands\"",
+            "artist": "Mel Torme",
+            "year": 1949,
+            "vid": "3sTtR7kx_hQ",
+            "vtime": "3:19"
+        },
+        {
+            "title": "\"I've Got My Love To Keep Me Warm\"",
+            "artist": "Les Brown & His Orchestra",
+            "year": 1949,
+            "vid": "oGeI1oN7kdA",
+            "vtime": "2:52"
+        },
+        {
+            "title": "\"Rudolph, the Red-Nosed Reindeer\"",
             "artist": "Gene Autry",
-            "year": 1950,
+            "year": 1949,
             "vid": "7ara3-hDH6I",
             "vtime": "3:09"
         },
         {
-            "title": "\"I Can Dream, Can't I?\"",
-            "artist": "The Andrews Sisters",
-            "year": 1950,
-            "vid": "owG-NeMPj3k",
-            "vtime": "2:43"
+            "title": "\"Far Away Places\"",
+            "artist": "Margaret Whiting",
+            "year": 1949,
+            "vid": "zmLqE1786hA",
+            "vtime": "3:20"
         },
         {
-            "title": "\"Rag Mop\"",
-            "artist": "Ames Brothers",
-            "year": 1950,
-            "vid": "Aa77lBHciRQ",
-            "vtime": "2:39"
+            "title": "\"Again\"",
+            "artist": "Gordon Jenkins & His Orchestra",
+            "year": 1949,
+            "vid": "0PpbbjyBwoU",
+            "vtime": "2:50"
         },
         {
-            "title": "\"Chattanoogie Shoe Shine Boy\"",
-            "artist": "Red Foley",
-            "year": 1950,
-            "vid": "5AUbIpIq5zY",
-            "vtime": "2:47"
+            "title": "\"Far Away Places\"",
+            "artist": "Bing Crosby",
+            "year": 1949,
+            "vid": "ylK1DiyV4zc",
+            "vtime": "3:03"
         },
         {
-            "title": "\"Music! Music! Music!\"",
-            "artist": "Teresa Brewer",
-            "year": 1950,
-            "vid": "HXYwP6PNYRA",
-            "vtime": "2:07"
+            "title": "\"Again\"",
+            "artist": "Doris Day",
+            "year": 1949,
+            "vid": "FdrE5DKq-EU",
+            "vtime": "3:00"
         },
         {
-            "title": "\"If I Knew You Were Comin' (I'd've Baked a Cake)\"",
-            "artist": "Eileen Barton",
+            "title": "\"Forever and Ever\"",
+            "artist": "Perry Como",
+            "year": 1949,
+            "vid": "e9-IwtdGOKQ",
+            "vtime": "3:25"
+        },
+        {
+            "title": "\"Room Full Of Roses\"",
+            "artist": "Sammy Kaye & His Orchestra",
+            "year": 1949,
+            "vid": "u3svndw4Chk",
+            "vtime": "3:16"
+        },
+        {
+            "title": "\"Riders in the Sky (A Cowboy Legend)\"",
+            "artist": "Peggy Lee",
+            "year": 1949,
+            "vid": "_BnhbPJGKPI",
+            "vtime": "2:46"
+        },
+        {
+            "title": "\"Galway Bay\"",
+            "artist": "Bing Crosby",
+            "year": 1949,
+            "vid": "9znQwZiprEM",
+            "vtime": "3:03"
+        },
+        {
+            "title": "\"Some Enchanted Evening\"",
+            "artist": "Bing Crosby",
+            "year": 1949,
+            "vid": "n_nXRvpxoC0",
+            "vtime": "3:06"
+        },
+        {
+            "title": "\"Red Roses For A Blue Lady\"",
+            "artist": "Vaughn Monroe & His Orchestra",
+            "year": 1949,
+            "vid": "dJ05VYu8fsk",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"Cruising Down The River\"",
+            "artist": "Jack Smith",
+            "year": 1949,
+            "vid": "CXx7vlno2Cg",
+            "vtime": "2:15"
+        },
+        {
+            "title": "\"Don't Cry, Joe (Let Her Go, Let Her Go, Let Her Go)\"",
+            "artist": "Gordon Jenkins & His Orchestra",
+            "year": 1949,
+            "vid": "uXV-0b-jVr4",
+            "vtime": "3:11"
+        },
+        {
+            "title": "\"Baby, It's Cold Outside\"",
+            "artist": "Margaret Whiting & Johnny Mercer",
+            "year": 1949,
+            "vid": "FTNheCEUP_A",
+            "vtime": "3:10"
+        },
+        {
+            "title": "\"The Tennessee Waltz\"",
+            "artist": "Patti Page",
             "year": 1950,
-            "vid": "G1wEVPqFFCg",
-            "vtime": "2:40"
+            "vid": "_Ek3eCbfqp0",
+            "vtime": "2:20"
+        },
+        {
+            "title": "\"Goodnight, Irene\"",
+            "artist": "Gordon Jenkins & The Weavers",
+            "year": 1950,
+            "vid": "CGkRBprxJvk",
+            "vtime": "3:26"
         },
         {
             "title": "\"The Third Man Theme\"",
@@ -715,25 +2094,46 @@
             "vtime": "3:59"
         },
         {
+            "title": "\"The Third Man Theme\"",
+            "artist": "Guy Lombardo & His Royal Canadians",
+            "year": 1950,
+            "vid": "ssvavwz4CRo",
+            "vtime": "2:56"
+        },
+        {
+            "title": "\"If I Knew You Were Comin' I'd've Baked a Cake\"",
+            "artist": "Eileen Barton",
+            "year": 1950,
+            "vid": "G1wEVPqFFCg",
+            "vtime": "2:40"
+        },
+        {
             "title": "\"Mona Lisa\"",
-            "artist": "Nat King Cole",
+            "artist": "Nat \"King\" Cole",
             "year": 1950,
             "vid": "EG-A_qTAKEI",
             "vtime": "3:18"
         },
         {
-            "title": "\"Goodnight, Irene\"",
-            "artist": "Gordon Jenkins and The Weavers",
+            "title": "\"Chattanoogie Shoe Shine Boy\"",
+            "artist": "Red Foley",
             "year": 1950,
-            "vid": "CGkRBprxJvk",
-            "vtime": "3:26"
+            "vid": "5AUbIpIq5zY",
+            "vtime": "2:47"
         },
         {
-            "title": "\"Harbor Lights\"",
-            "artist": "Sammy Kaye and His Orchestra",
+            "title": "\"I Can Dream, Can't I?\"",
+            "artist": "The Andrews Sisters",
             "year": 1950,
-            "vid": "7AMuM5ExqOo",
-            "vtime": "3:24"
+            "vid": "owG-NeMPj3k",
+            "vtime": "2:43"
+        },
+        {
+            "title": "\"All My Love (Bolero)\"",
+            "artist": "Patti Page",
+            "year": 1950,
+            "vid": "MEB7_Zqgl3g",
+            "vtime": "3:21"
         },
         {
             "title": "\"The Thing\"",
@@ -743,11 +2143,151 @@
             "vtime": "2:28"
         },
         {
-            "title": "\"The Tennessee Waltz\"",
-            "artist": "Patti Page",
+            "title": "\"Harbor Lights\"",
+            "artist": "Sammy Kaye & His Orchestra",
             "year": 1950,
-            "vid": "_Ek3eCbfqp0",
-            "vtime": "2:20"
+            "vid": "obFCM0OpEMI",
+            "vtime": "3:19"
+        },
+        {
+            "title": "\"(Put Another Nickel In) Music! Music! Music!\"",
+            "artist": "Teresa Brewer",
+            "year": 1950,
+            "vid": "HXYwP6PNYRA",
+            "vtime": "2:07"
+        },
+        {
+            "title": "\"I Wanna Be Loved\"",
+            "artist": "Andrews Sisters",
+            "year": 1950,
+            "vid": "-rjO0eGeWME",
+            "vtime": "3:21"
+        },
+        {
+            "title": "\"Rag Mop\"",
+            "artist": "Ames Brothers",
+            "year": 1950,
+            "vid": "Aa77lBHciRQ",
+            "vtime": "2:39"
+        },
+        {
+            "title": "\"The Cry Of The Wild Goose\"",
+            "artist": "Frankie Laine",
+            "year": 1950,
+            "vid": "1wjt4AoPLXQ",
+            "vtime": "2:39"
+        },
+        {
+            "title": "\"Hoop-Dee-Doo\"",
+            "artist": "Perry Como & Fontane Sisters",
+            "year": 1950,
+            "vid": "zaK6iANjSg8",
+            "vtime": "2:56"
+        },
+        {
+            "title": "\"Sentimental Me\"",
+            "artist": "Ames Brothers",
+            "year": 1950,
+            "vid": "Vd765MfjErc",
+            "vtime": "3:16"
+        },
+        {
+            "title": "\"It Isn't Fair\"",
+            "artist": "Sammy Kaye & His Orchestra",
+            "year": 1950,
+            "vid": "lf854dTnW40",
+            "vtime": "3:19"
+        },
+        {
+            "title": "\"Dear Hearts and Gentle People\"",
+            "artist": "Bing Crosby",
+            "year": 1950,
+            "vid": "T1-_4yJpnME",
+            "vtime": "2:40"
+        },
+        {
+            "title": "\"Play a Simple Melody\"",
+            "artist": "Gary Crosby & Friend",
+            "year": 1950,
+            "vid": "tWRFrwBuDTU",
+            "vtime": "2:53"
+        },
+        {
+            "title": "\"There's No Tomorrow\"",
+            "artist": "Tony Martin",
+            "year": 1950,
+            "vid": "e3Qmg9vZFdo",
+            "vtime": "3:20"
+        },
+        {
+            "title": "\"Tzena, Tzena, Tzena\"",
+            "artist": "Gordon Jenkins & The Weavers",
+            "year": 1950,
+            "vid": "IFtx1Als_BQ",
+            "vtime": "2:44"
+        },
+        {
+            "title": "\"Nevertheless (I'm In Love with You)\"",
+            "artist": "Paul Weston & His Orchestra",
+            "year": 1950,
+            "vid": "EqBUZ1u7uV0",
+            "vtime": "2:57"
+        },
+        {
+            "title": "\"Hoop-Dee-Doo\"",
+            "artist": "Kay Starr",
+            "year": 1950,
+            "vid": "zZ9YXwqtMzQ",
+            "vtime": "2:07"
+        },
+        {
+            "title": "\"Harbor Lights\"",
+            "artist": "Guy Lombardo & His Royal Canadians",
+            "year": 1950,
+            "vid": "XX59B9MF9B0",
+            "vtime": "2:59"
+        },
+        {
+            "title": "\"The Old Master Painter\"",
+            "artist": "Richard Hayes",
+            "year": 1950,
+            "vid": "LL-_BZWOIU0",
+            "vtime": "1:59"
+        },
+        {
+            "title": "\"Dear Hearts and Gentle People\"",
+            "artist": "Dinah Shore",
+            "year": 1950,
+            "vid": "1q5yyiaJV8Y",
+            "vtime": "2:31"
+        },
+        {
+            "title": "\"Sam's Song (The Happy Tune)\"",
+            "artist": "Gary Crosby & Friend",
+            "year": 1950,
+            "vid": "Vd0tZ2SYpGg",
+            "vtime": "2:54"
+        },
+        {
+            "title": "\"I'll Never Be Free\"",
+            "artist": "Kay Starr & Tennessee Ernie Ford",
+            "year": 1950,
+            "vid": "h3UB7YSxCX4",
+            "vtime": "2:39"
+        },
+        {
+            "title": "\"A Dreamer's Holiday\"",
+            "artist": "Perry Como & Fontane Sisters",
+            "year": 1950,
+            "vid": "Clst25Kzaug",
+            "vtime": "3:18"
+        },
+        {
+            "title": "\"My Foolish Heart\"",
+            "artist": "Gordon Jenkins & His Orchestra",
+            "year": 1950,
+            "vid": "pQRrkiiE5SQ",
+            "vtime": "3:23"
         },
         {
             "title": "\"Too Young\"",
@@ -2839,8 +4379,8 @@
             "title": "\"Jamaica Farewell\"",
             "artist": "Harry Belafonte",
             "year": 1957,
-            "vid": "o4r5C6MUqO4",
-            "vtime": "3:29"
+            "vid": "KFFlWtlDRqk",
+            "vtime": "3:05"
         },
         {
             "title": "\"Why Baby Why\"",
@@ -17287,8 +18827,8 @@
             "title": "\"We Will Rock You/We Are the Champions\"",
             "artist": "Queen",
             "year": 1978,
-            "vid": "6hg5skx5TZM",
-            "vtime": "5:04"
+            "vid": "qRlGFXl_e1E",
+            "vtime": "3:11"
         },
         {
             "title": "\"Baker Street\"",
@@ -22474,8 +24014,8 @@
             "title": "\"Too Late for Goodbyes\"",
             "artist": "Julian Lennon",
             "year": 1985,
-            "vid": "vh4Cni_wp-Y",
-            "vtime": "3:32"
+            "vid": "aQs1Ynq0rlk",
+            "vtime": "3:33"
         },
         {
             "title": "\"Valotte\"",
@@ -29600,8 +31140,8 @@
             "title": "\"You Learn\" / \"You Oughta Know\"",
             "artist": "Alanis Morissette",
             "year": 1996,
-            "vid": "LuzCwXB4AJQ",
-            "vtime": "4:15"
+            "vid": "NPcyTyilmYY",
+            "vtime": "4:14"
         },
         {
             "title": "\"One of Us\"",
@@ -36348,7 +37888,7 @@
             "title": "\"One Wish\"",
             "artist": "Ray J",
             "year": 2006,
-            "vid": "p1s2CG2ZDS4",
+            "vid": "zc1zpkK8sco",
             "vtime": "3:59"
         },
         {
