@@ -4,7 +4,6 @@ $(document).ready(function(){
     var json;
     var questionCounter;
     var jsonFilename = "";
-    var hiscore = 
 
     $(".genre").click(function(event){
         $("#songEmbed").show(); 
@@ -66,6 +65,7 @@ function startSetup(){
     $("#maintitle").text("Top the Charts");
     $("#subtitle").text("Make sure to turn up your sound!");
     $("#score").text("0");
+    $("#hiscore").text(getHighScore());
     $("#submitButton").hide();
     $("#nextSong").hide();
     $("#replayButton").hide();
@@ -144,6 +144,7 @@ function showResult(guess, song, json){
    $("#score").text(String(currScore + ptsEarned));
    if (parseInt($("#score").text()) > parseInt($("#hiscore").text())){
        $("#hiscore").text(String(currScore + ptsEarned));
+       setHighScore(currScore + ptsEarned);
    }
    embedYoutube("http://www.youtube.com/embed/" + song["vid"], true); 
    $("#nextSong").show();
@@ -199,4 +200,21 @@ function showFinalScore() {
                               billboardLink + "\">" + "Billboard's Hot 100 55th " +
                               "Anniversary Charts</a>.</small>");
     });
+}
+
+function setHighScore(hiscore){
+    var expireLen = 2592000000; //30 days
+    var expireDate = new Date();
+    expireDate.setTime(expireDate.getTime() + expireLen);
+    document.cookie = "hs=" + String(hiscore) + "; expires=" + expireDate.toGMTString();
+}
+
+function getHighScore(){
+    var scoreStart = document.cookie.indexOf("hs=") + 3;
+    var scoreEnd = document.cookie.indexOf(";", scoreStart);
+    if (scoreEnd === -1) {scoreEnd = document.cookie.length}
+    if (document.cookie.length === 0 || scoreStart === 2){ return 0; }
+    var hiscore = parseInt(document.cookie.substring(scoreStart, scoreEnd));
+    setHighScore(hiscore); //Refresh expiry date
+    return hiscore;
 }
