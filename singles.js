@@ -63,7 +63,7 @@ $(document).ready(function(){
 });
 
 function startSetup(){
-    $("#maintitle").text("Date the Singles");
+    $("#maintitle").text("Top the Charts");
     $("#subtitle").text("Make sure to turn up your sound!");
     $("#score").text("0");
     $("#submitButton").hide();
@@ -129,7 +129,8 @@ function showResult(guess, song, json){
             $("#maintitle").text("Decent");
             $("#subtitle").text("+2 points");
             break;
-        case 5:
+        case 5: //Intentional fallthrough
+        case 6:
             ptsEarned = 1;
             $("#maintitle").text("Not Bad");
             $("#subtitle").text("+1 points");
